@@ -18,9 +18,9 @@ public class Estudiante {
 	@Override
 	public String toString() {
 		return "DATOS DEL ESTUDIANTE: \n" + 
-				"ID: " + this.id +
-				"NOMBRE: " + this.nombre + 
-				"APELLIDO: " + this.apellido;
+				"ID: " + this.id + "\n" +
+				"NOMBRE: " + this.nombre + "\n" +
+				"APELLIDO: " + this.apellido + "\n" ;
 	}
 	
 	
